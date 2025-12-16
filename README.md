@@ -1,11 +1,10 @@
-# My First ML Project
+# Solubility Predictor ML Project
 
 ## Description
-This project is a beginner-friendly introduction to data science and machine learning.  
-It demonstrates how to:
-- Load and explore a dataset using **Pandas**.
-- Separate features (`X`) and target (`y`) for modeling.
-- Build and evaluate a simple machine learning model.
+This project demonstrates:
+- Loading and exploring a dataset using **Pandas**.
+- Separate features (`X`) and target variable (`y`) for modeling.
+- Building and evaluating a simple machine learning model.
 
 The dataset used is from [Data Professor](https://github.com/dataprofessor/data), specifically the **Delaney solubility dataset**, which predicts the solubility of molecules based on their chemical descriptors.
 
